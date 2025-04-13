@@ -4,9 +4,9 @@
 * 1- split all words [ i, hate, sharks, i, love, fishes ] without repeating
 * 2- make all words have ID and count every word 
 * Example: 
-    word  I hate sharks love fishes
-    ID    1   2    3     4     5
-    D1    2   1    1     1     1
+    * word  I hate sharks love fishes
+    * ID    1   2    3     4     5
+    * D1    2   1    1     1     1
 ## TF-IDF
 * التي اف بتقيس تكرار الكلمه في الدوكس, وال أي دي اف بتقيس تكراراو الكلمه دي مرتبطه بكام دوكس علي هي ظهرت فعلا في كام دوكس وارتباطها بكام دوكس بالفعل.
 * لما بتعمل سيرش علي جوجل مثلا بكلام عشوائي او اي سيرش فازاي النتيجه بتطلع والسيرش دا بيحصل وازاي بتتبني العلاقات بين الجمل وبعضها عشان يديني نتايج متقاربه في الاخر من اللي بدور عليه؟
